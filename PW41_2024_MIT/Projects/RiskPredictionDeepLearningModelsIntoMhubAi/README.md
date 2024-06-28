@@ -72,6 +72,10 @@ Therefore I aim to add two often used risk prediction models (Sybil and CVD-risk
 2. CVD-Risk-Estimator - CVD risk model - is still ongoing, however at last stage.
 3. Got More comfortable with [Mhub.ai](https://mhub.ai/) framework, and looking forward to add more models.
 
+![SYBIL_MHUB](https://github.com/ahmed98adly/pw/sybil_mhub.png)
+
+![SYBIL_Output](https://github.com/ahmed98adly/pw/sybil_output.png)
+
 
 # Illustrations
 
